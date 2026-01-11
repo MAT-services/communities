@@ -1,3 +1,22 @@
 .topPage {
-    background-image: url(res/MATCommunities.png);
+    background-image: url(../res/MATCommunities.png);
+    background-position: center;
+    background-size: cover;
+    color: unset;
+}
+
+.sideButton {
+    font-size: xx-large;
+    background-color: unset;
+}
+
+.textContainerOutside {
+    padding-right: 30px;
+}
+
+.textContainer {
+    padding: 10px;
+    padding-top: 0;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
 }
